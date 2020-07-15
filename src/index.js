@@ -1,2 +1,3 @@
-const { Button } = './components/Button'
+import { Button } from './components/Button'
+
 export { Button }
